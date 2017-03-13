@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Wisbell/dice-roll-modularity-node-foundations-17/issues"
   },
-  "homepage": "https://github.com/Wisbell/dice-roll-modularity-node-foundations-17#readme"
+  "homepage": "https://github.com/Wisbell/dice-roll-modularity-node-foundations-17#readme",
+  "dependencies": {
+    "lame": "^1.2.4",
+    "player": "^0.6.1",
+    "speaker": "^0.3.0"
+  }
 }
